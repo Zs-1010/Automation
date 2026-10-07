@@ -5,7 +5,8 @@ Welcome to the automation repository. Below is a directory of all available tool
 | Category | Project Name | Documentation |
 | :--- | :--- | :--- | 
 | **Real Estate** | App Scheduler | [View Docs](./real_estate/app_scheduler/) |
-| **Real Estate** | Social Media Manager |[View Docs](./real_estate/socmed_man/) |
+| **Real Estate** | Social Media Manager |[TBD](./real_estate/socmed_man/) |
+| **Real Estate** | Document Manager |[TBD](./real_estate/socmed_man/) |
 
 
 ## Tech Stack
