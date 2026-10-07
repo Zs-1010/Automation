@@ -6,3 +6,9 @@ Welcome to the automation repository. Below is a directory of all available tool
 | :--- | :--- | :--- | 
 | **Real Estate** | App Scheduler | [View Docs](./real_estate/app_scheduler/) |
 | **Real Estate** | Social Media Manager |[View Docs](./real_estate/socmed_man/) |
+
+
+## Tech Stack
+* **n8n** 
+* **Python** 
+* **JavaScript**
