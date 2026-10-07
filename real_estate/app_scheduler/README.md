@@ -5,3 +5,5 @@ Features:
 2. Connects to you Google Calendar
 3. Connects to your Google Gmail
 4. with AI Agent to analyze your Booking Request!
+
+<video src="AppScheduler_002.mp4" autoplay loop muted playsinline></video>
